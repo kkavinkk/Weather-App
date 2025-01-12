@@ -1,2 +1,2 @@
 # Weather-App
-A weather app project to help learn JavaScript
+The weather app is a simple project to help me learn JavaScript.
