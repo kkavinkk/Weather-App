@@ -9,15 +9,18 @@
 
 2. Launch with Live Server extension
 
-### **5. Usage**
+### **1. Usage**
 Simpily enter the name of a city you want to find.
 
 ![Example Image](images/Example.png)
 
 *Figure 1: Shows the city you have entered*
 
+### **2. Features**
+Key functionalities or features of the project.
 
+- Catcches misspelled city names
+- Shows nothing when no city is entered
+- Always shows live weather information
 
-
-
-Powered and launched by the Live Server extension.
+A learning project by Kavin. K
