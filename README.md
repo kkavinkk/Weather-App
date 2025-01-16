@@ -28,4 +28,6 @@ Key functionalities or features of the project.
 - Shows nothing when no city is entered
 - Always shows live weather information
 
+Based on: [Link Text](https://www.youtube.com/watch?v=MIYQR-Ybrn4&list=LL&index=3)
+
 A learning project by Kavin. K
