@@ -19,7 +19,7 @@ Simpily enter the name of a city you want to find.
 ### **2. Features**
 Key functionalities or features of the project.
 
-- Catcches misspelled city names
+- Catches misspelled city names
 - Shows nothing when no city is entered
 - Always shows live weather information
 
