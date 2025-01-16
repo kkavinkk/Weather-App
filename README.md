@@ -12,7 +12,7 @@
 ### **5. Usage**
 Simpily enter the name of a city you want to find.
 
-![Example Image](images/snow.png)
+![Example Image](images/Example.png)
 
 *Figure 1: Shows the city you have entered*
 
