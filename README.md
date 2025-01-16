@@ -9,8 +9,13 @@
 
 2. Launch with Live Server extension
 
-### **Usage**
-Explain how to use the project, with examples and screenshots if necessary.
+### **5. Usage**
+Simpily enter the name of a city you want to find.
+
+![Example Image](images\WeatherAppExample_usage.png)
+
+*Figure 1: Shows the city you have entered*
+
 
 
 
