@@ -7,7 +7,12 @@
    ```bash
    git clone https://github.com/kkavinkk/Weather-App.git
 
-2. Launch with Live Server extension
+2. Launch with:
+   ```bash
+   node server.mjs
+
+3. Stop server with:
+   Ctrl + c
 
 ### **1. Usage**
 Simpily enter the name of a city you want to find.
