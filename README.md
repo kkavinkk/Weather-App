@@ -12,7 +12,7 @@
 ### **5. Usage**
 Simpily enter the name of a city you want to find.
 
-![Example Image](images\WeatherAppExample_usage.png)
+![Example Image](images/snow.png)
 
 *Figure 1: Shows the city you have entered*
 
